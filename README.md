@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://shanto-portfolioooo.vercel.app/](https://shanto-portfolioooo.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-shanto.vercel.app/](https://portfolio-shanto.vercel.app/)
 
 - 📫 How to reach me **mrahman7148@gmail.com**
 
