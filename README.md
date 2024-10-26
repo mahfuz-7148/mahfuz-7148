@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shanto.vercel.app/](https://portfolio-shanto.vercel.app/)
 
-- 📫 How to reach me **mrahman7148@gmail.com**
+- 📫 How to reach me **mahfuz5846@gmail.com**
 
 - 📄 Know about my experiences [https://shanto-resume.vercel.app/](https://shanto-resume.vercel.app/)
 
