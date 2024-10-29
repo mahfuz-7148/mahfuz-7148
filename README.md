@@ -6,11 +6,6 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
 
-
-
-
-
-
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=dark_lover&column=4&no-frame=true&no-bg=true&margin-w=19&margin-h=19" alt="image" /> </p>
 
 - 🌱 I’m currently learning **Reactjs**
