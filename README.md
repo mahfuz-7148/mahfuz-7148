@@ -1,6 +1,6 @@
 
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Mahfuzur%20Rahman%20A%20passionate%20full%20stack%20developer%20from%20Bangladesh&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Mahfuzur%20Rahman%20A%20passionate%20full%20stack%20developer%20from%20Bangladesh&width=1400&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
