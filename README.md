@@ -20,7 +20,7 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="profile-radme-generator" />
+
 
 
 
