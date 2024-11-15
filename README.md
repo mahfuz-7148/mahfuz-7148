@@ -7,12 +7,6 @@
 
 
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=dark_lover&column=6&no-frame=true&no-bg=true&margin-w=19&margin-h=19" alt="image" /> </p>
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Reactjs**
