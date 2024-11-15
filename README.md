@@ -2,7 +2,8 @@
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Mahfuzur%20Rahman&text2=&width=900&height=400)
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
 
 - 🌱 I’m currently learning **Reactjs**
