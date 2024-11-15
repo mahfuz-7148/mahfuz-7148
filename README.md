@@ -21,7 +21,7 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=black-ice&mode=weekly&hide_border=true&locale=en" />
+
 
 
 
