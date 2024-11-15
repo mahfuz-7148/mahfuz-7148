@@ -3,10 +3,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Mahfuzur%20Rahman&text2=&width=900&height=400)
 
 
-
-
-
-
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **Reactjs**
@@ -22,7 +18,7 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=black-ice&mode=weekly&hide_border=true&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=black-ice&mode=weekly&hide_border=true&locale=en"/>
 
 
 
