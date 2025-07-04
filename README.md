@@ -65,10 +65,18 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github.com/mahfuz-7148/mahfuz-7148/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahfuz-7148/mahfuz-7148/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
