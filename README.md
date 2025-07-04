@@ -73,10 +73,23 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfuz-7148/mahfuz-7148/output/snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/0891b2/mahfuz-7148" alt="Contribution Calendar" width="100%" />
+</div>
+
+---
+
+## 🔥 Streak & More Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=radical" alt="Most Commit Language"/>
 </div>
 
 ---
