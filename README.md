@@ -1,35 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahfuzur Rahman Shanto
-==============================================================================================================================================
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> I'm Mahfuzur Rahman Shanto
 
-MERN Stack Front-end Developer
-------------------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [mahfuz5846@gmail.com](mailto:mahfuz5846@gmail.com)
-* 🧠  I'm learning MERN
+---
 
-### Skills
+## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+- 🌍 **Based in:** Bangladesh
+- 💼 **Role:** MERN Stack Frontend Developer
+- 🎯 **Currently Learning:** Advanced React Patterns & Node.js
+- 📧 **Contact:** [mahfuz5846@gmail.com](mailto:mahfuz5846@gmail.com)
+- 🎨 **Passion:** Creating beautiful, responsive web applications
+- 🔥 **Fun Fact:** I love turning coffee into code! ☕
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Skills" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+</p>
 
-### Socials
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,cpp,c" alt="Tools" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/mahfuz-7148" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+</div>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Analytics
 
-<a href="http://www.github.com/mahfuz-7148"><img src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahfuz-7148's GitHub stats" /></a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
-<a href="http://www.github.com/mahfuz-7148"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<a href="https://github.com/mahfuz-7148" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+## 🏆 GitHub Trophies
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/mahfuz-7148/mahfuz-7148/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/mahfuz-7148" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mahfuz5846@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mahfuzur-rahman-shanto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+## 💡 Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
+  
+  **Thanks for visiting! Let's connect and build something amazing together!** 🚀
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" alt="Footer"/>
+</div>
