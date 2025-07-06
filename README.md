@@ -8,11 +8,13 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌍 **Based in:** Bangladesh
 - 💼 **Role:** MERN Stack Frontend Developer
 - 🎯 **Currently Learning:** Advanced React Patterns & Node.js
+- 📊 **Tech Stack:** JavaScript, React, MongoDB, Node.js
+- 🚀 **MERN Stack:** MongoDB, Express.js, React, Node.js
 - 📧 **Contact:** [mahfuz5846@gmail.com](mailto:mahfuz5846@gmail.com)
 - 🎨 **Passion:** Creating beautiful, responsive web applications
 - 🔥 **Fun Fact:** I love turning coffee into code! ☕
@@ -37,7 +39,7 @@
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,cpp,c" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,figma,vercel,cpp,c" alt="Tools" />
 </p>
 
 </div>
