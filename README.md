@@ -1,37 +1,40 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Mahfuzur Rahman Shanto</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=300&color=FF4500,00B7EB,4682B4,98FB98,FFD700,FF69B4¢er=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌍 **Based in:** Bangladesh  
-- 💼 **Role:** MERN Stack Frontend Developer  
-- 🎯 **Currently Learning:** Advanced React Patterns & Node.js  
-- 📧 **Contact:** [mahfuz5846@gmail.com](mailto:mahfuz5846@gmail.com)  
-- 🎨 **Passion:** Creating beautiful, responsive web applications  
-- 🔥 **Fun Fact:** I love turning coffee into code! ☕  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      - 🌍 <strong>Based in:</strong> Bangladesh<br>
+      - 💼 <strong>Role:</strong> MERN Stack Frontend Developer<br>
+      - 🎯 <strong>Currently Learning:</strong> Advanced React Patterns & Node.js<br>
+      - 📧 <strong>Contact:</strong> <a href="mailto:mahfuz5846@gmail.com">mahfuz5846@gmail.com</a><br>
+      - 🎨 <strong>Passion:</strong> Creating beautiful, responsive web applications<br>
+      - 🔥 <strong>Fun Fact:</strong> I love turning coffee into code! ☕
+    </p>
+  </div>
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Skills" />
-
-### 🛠️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-
-### ⚙️ Tools & Others
-<img src="https://skillicons.dev/icons?i=git,vscode,webstorm,figma,cpp,c" alt="Tools" />
-
+  <h3>🖥️ Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Skills" />
+  
+  <h3>🛠️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+  
+  <h3>⚙️ Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,figma,cpp,c" alt="Tools" />
 </div>
 
 ---
@@ -39,12 +42,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=synthwave&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E2A44&title_color=FF4500&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=onedark&hide_border=true&bg_color=1E2A44&title_color=FF4500&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=synthwave&hide_border=true&background=30,e96443,904e95&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=onedark&hide_border=true&background=1E2A44&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -52,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=synthwave&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -60,7 +63,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=synthwave&bg_color=1a1b27&color=e96443&line=904e95&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=dracula&bg_color=1E2A44&color=FF4500&line=00B7EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
 ---
@@ -68,7 +71,7 @@
 ## 🗓️ Contribution Calendar
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/e96443/mahfuz-7148" alt="Contribution Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/FF4500/mahfuz-7148" alt="Contribution Calendar" width="100%" />
 </div>
 
 ---
@@ -76,12 +79,12 @@
 ## 🔥 Streak & More Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=synthwave" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=onedark" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=synthwave" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=synthwave" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=onedark" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=onedark" alt="Most Commit Language"/>
 </div>
 
 ---
@@ -90,13 +93,13 @@
 
 <div align="center">
   <a href="https://github.com/mahfuz-7148" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1E2A44" />
   </a>
   <a href="mailto:mahfuz5846@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1E2A44" />
   </a>
   <a href="https://linkedin.com/in/mahfuzur-rahman-shanto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1E2A44" />
   </a>
 </div>
 
@@ -105,19 +108,18 @@
 ## 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=e96443&style=flat" alt="Profile Views" />
-  
-  **Thanks for visiting! Let's connect and build something amazing together!** 🚀
+  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=FF4500&style=flat" alt="Profile Views" />
+  <p><strong>Thanks for visiting! Let's connect and build something amazing together!</strong> 🚀</p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100§ion=footer" alt="Footer"/>
 </div>
