@@ -1,7 +1,19 @@
-# Hi there! 👋 I'm Mahfuzur Rahman Shanto
+<div align="center">
+  <h1><em><b>Hi there! 👋 I'm Mahfuzur Rahman Shanto</b> 🚀</em></h1>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Frontend+Developer;Passionate+about+Clean+Code;Building+Beautiful+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Frontend+Developer;Passionate+about+Clean+Code;Building+Beautiful+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Love GIF"> 
+  <em><b>Happy Coding!</b> 🚀</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Love GIF"></h2>
+</div>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -24,11 +36,6 @@ const mahfuz = {
 };
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="React GIF"/>
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +51,7 @@ const mahfuz = {
 
 ### Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,webstorm" alt="Tools" />
 </div>
 
 ---
@@ -98,18 +105,6 @@ const mahfuz = {
   <a href="https://www.buymeacoffee.com/mahfuz-7148" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love GIF"> 
-  <em><b>Happy Coding!</b> 🚀</em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love GIF">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
