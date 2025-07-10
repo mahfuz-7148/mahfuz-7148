@@ -1,139 +1,121 @@
+# Hi there! 👋 I'm Mahfuzur Rahman Shanto
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Mahfuzur Rahman Shanto</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=100&color=FF4500,00B7EB,4682B4,98FB98,FFC107,FF69B4¢er=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Frontend+Developer;Passionate+about+Clean+Code;Building+Beautiful+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <p>
-      - 🌍 <strong>Based in:</strong> Bangladesh<br>
-      - 💼 <strong>Role:</strong> MERN Stack Frontend Developer<br>
-      - 🎯 <strong>Currently Learning:</strong> Advanced React Patterns & Node.js<br>
-      - 📧 <strong>Contact:</strong> <a href="mailto:mahfuz5846@gmail.com">mahfuz5846@gmail.com</a><br>
-      - 🎨 <strong>Passion:</strong> Creating beautiful, responsive web applications<br>
-      - 🔥 <strong>Fun Fact:</strong> I love turning coffee into code! ☕
-    </p>
-  </div>
-  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+```javascript
+const mahfuz = {
+  location: "Bangladesh 🇧🇩",
+  role: "MERN Stack Frontend Developer",
+  currentlyLearning: ["Advanced React Patterns", "Node.js", "System Design"],
+  passion: "Creating beautiful, responsive web applications",
+  funFact: "I love turning coffee into code! ☕",
+  workingOn: "Building amazing user experiences",
+  askMeAbout: ["React", "JavaScript", "Frontend Development", "Web Design"]
+};
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="React GIF"/>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Frontend Development
 <div align="center">
-  <h3>🖥️ Frontend</h3>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend Skills" />
-  
-  <h3>🛠️ Backend</h3>
-  <img src="https://media.giphy.com/media/kd9BlR0huxr7DfnzJZ/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-  
-  <h3>⚙️ Tools & Others</h3>
-  <img src="https://media.giphy.com/media/IdyAQPVN2kQwdW6L1A/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,figma,cpp,c" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase" alt="Frontend Skills" />
+</div>
+
+### Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cpp" alt="Tools" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zta4kSEeI0K3fK0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E2A44&title_color=FF4500&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=onedark&hide_border=true&bg_color=1E2A44&title_color=FF4500&text_color=FFFFFF"/>
-  <p><strong>View interactive language chart in canvas panel below!</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=onedark&hide_border=true&background=1E2A44&stroke=FF4500&ring=FF4500&fire=FF4500&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2xcu3k4fKkF8k/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=dracula&bg_color=1E2A44&color=FF4500&line=00B7EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Focus GIF"/>
 </div>
+
+- 🔭 Working on **Full-stack MERN applications**
+- 🌱 Learning **Advanced React Patterns & Node.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, JavaScript, Frontend Development**
+- ⚡ Fun fact: **I debug with console.log() like a pro! 😄**
 
 ---
 
-## 🗓️ Contribution Calendar
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2B8jFGRXJ8Y0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://ghchart.rshah.org/FF4500/mahfuz-7148" alt="Contribution Calendar" width="100%" />
-</div>
-
----
-
-## 🔥 Streak & More Stats
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufm1zTvsciBl9u0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=onedark" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2B8jFGRXJ8Y0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=onedark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=onedark" alt="Most Commit Language"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2B8jFGRXJ8Y0/giphy.gif" width="50" style="margin: 10px;"/>
-  <a href="https://github.com/mahfuz-7148" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1E2A44" />
+  <a href="https://www.linkedin.com/in/mahfuzur-rahman-shanto-b50b87370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mahfuz5846@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1E2A44" />
-  </a>
-  <a href="https://linkedin.com/in/mahfuzur-rahman-shanto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1E2A44" />
+  <a href="https://www.facebook.com/mahfuzur.rahman.shanto.449975" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
 ---
 
-## 💡 Quote of the Day
+## 💖 Support My Work
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Random Dev Quote"/>
+  <a href="https://www.buymeacoffee.com/mahfuz-7148" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufm1zTvsciBl9u0/giphy.gif" width="50" style="margin: 10px;"/>
-  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&label=Profile%20views&color=FF4500&style=flat" alt="Profile Views" />
-  <p><strong>Thanks for visiting! Let's connect and build something amazing together!</strong> 🚀</p>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love GIF"> 
+  <em><b>Happy Coding!</b> 🚀</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love GIF">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100§ion=footer" alt="Footer"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Thinking GIF"/>
+  <br>
+  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </div>
