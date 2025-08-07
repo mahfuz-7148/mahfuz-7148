@@ -1,4 +1,5 @@
 # 🌟 Mahfuzur Rahman Shanto
+<h3 align="center">Frontend Developer</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Coding%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header"/>
@@ -22,49 +23,58 @@
 
 ## 🎯 About Me
 
+<p align="center">
+🌱 Passionate web developer with a love for creating interactive and user-friendly applications.<br>
+💡 Always eager to learn new technologies and solve challenging problems.<br>
+🎯 Focused on building scalable and efficient web solutions.<br>
+📫 Let's connect and build something amazing together!
+</p>
+
+## 🤝 Let's Connect & Build Together
 <div align="center">
+  <a href="https://www.linkedin.com/in/mahfuzur-rahman-shanto-b50b87370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/+8801641218084" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/mahfuzur.rahman.shanto.449975" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  </a>
+  <a href="mailto:mahfuzshanto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
   
-```javascript
-const developer = {
-    name: "Mahfuzur Rahman Shanto",
-    location: "🇧🇩 Bangladesh",
-    title: "MERN Stack Frontend Developer",
-    passion: "Crafting pixel-perfect user experiences",
-    currentlyLearning: [
-        "Advanced React Patterns",
-        "Node.js & Express",
-        "System Design",
-        "Cloud Architecture"
-    ],
-    codePhilosophy: "Clean code is not written by following rules. It's written by developers who care.",
-    funFact: "I turn coffee into code and bugs into features! ☕→💻",
-    lifeGoal: "Building applications that make people's lives easier",
-    askMeAbout: ["React", "JavaScript", "Frontend Magic", "UI/UX Design"]
-};
-
-console.log("Ready to build something amazing? Let's connect! 🚀");
-```
-
 </div>
 
----
+## 🚀 What I'm Currently Working On
+
+- 🔭 I'm currently working on **Medipeak website project**
+- 🌱 I'm currently exploring **Next.js, TypeScript and advanced React patterns**
+- 👨‍💻 Building projects with **Modern JavaScript frameworks**
+- 💬 Ask me about **Next.js, React, JavaScript, and web development**
+- 📫 How to reach me: **mrahman7148@gmail.com**
+- ⚡ Fun fact: **I love turning coffee into code!**
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
   
 ### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css,figma&theme=dark" alt="Frontend Skills" />
 
 ### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,firebase,nodejs,&theme=dark" alt="Backend Skills" />
 
 ### 🔧 Tools & Utilities
-<img src="https://skillicons.dev/icons?i=git,github,webstorm,npm&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=webstorm,git,github,npm&theme=dark" alt="Tools" />
 
 </div>
 
----
+📚 Languages Used
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -92,30 +102,8 @@ console.log("Ready to build something amazing? Let's connect! 🚀");
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
 
-## 🤝 Let's Connect & Build Together
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" alt="Connect"/>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahfuzur-rahman-shanto-b50b87370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mahfuzur.rahman.shanto.449975" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
-  </a>
-  <a href="mailto:mahfuzshanto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
-  </a>
-  <a href="https://github.com/mahfuz-7148">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
-  </a>
-</div>
-
----
 
 ## 💖 Support My Journey
 
