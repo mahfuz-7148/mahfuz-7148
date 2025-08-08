@@ -105,33 +105,6 @@
 
 
 
-## 💖 Support My Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644547-435854c1-7d5c-4c1c-9c15-8b4b7a60f7ad.gif" width="300" alt="Support"/>
-</div>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/mahfuz-7148" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Thank You"/>
-</div>
-
-<div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/216644505-c0c7c2c7-9ec9-4a86-b5a7-f2b1e7c5b4c3.gif" width="30" alt="Quote"/>
-    <em>"The best way to predict the future is to create it."</em>
-    <img src="https://user-images.githubusercontent.com/74038190/216644505-c0c7c2c7-9ec9-4a86-b5a7-f2b1e7c5b4c3.gif" width="30" alt="Quote"/>
-  </h3>
-  <h4>— Peter Drucker</h4>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </div>
