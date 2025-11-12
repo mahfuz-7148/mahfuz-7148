@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfuz-7148&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mahfuz-7148?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mahfuz-7148?style=for-the-badge&color=yellow&label=STARS" alt="Stars" />
 </div>
 
 ## 🎯 About Me
