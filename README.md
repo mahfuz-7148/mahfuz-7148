@@ -43,7 +43,6 @@
   <a href="mailto:mahfuzshanto@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  
 </div>
 
 ## 🚀 What I'm Currently Working On
@@ -63,50 +62,39 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css,figma&theme=dark" alt="Frontend Skills" />
 
 ### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=mongodb,express,firebase,nodejs,&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,firebase,nodejs&theme=dark" alt="Backend Skills" />
 
 ### 🔧 Tools & Utilities
 <img src="https://skillicons.dev/icons?i=webstorm,git,github,npm&theme=dark" alt="Tools" />
 
 </div>
 
-📚 Languages Used
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
-## 📊 GitHub Analytics
+
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=github_dark" alt="Profile Details" />
+  <img alt="Mahfuz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+</div>
+
+## 💻 GitHub Profile Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=algolia" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz-7148&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=algolia" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=algolia" alt="Most Commit Language" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahfuz-7148&theme=algolia" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahfuz-7148&theme=algolia&utcOffset=6" alt="Productive Time" />
+</div>
 
 ---
-
-
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfuz-7148&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </div>
-
-
-
