@@ -1,12 +1,12 @@
 # 🌟 Mahfuzur Rahman Shanto
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Coding%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Frontend+Enthusiast+%F0%9F%8E%A8;Clean+Code+Advocate+%F0%9F%92%8E;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full Stack+Enthusiast+%F0%9F%8E%A8;Clean+Code+Advocate+%F0%9F%92%8E;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
