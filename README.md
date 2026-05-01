@@ -6,8 +6,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full Stack+Enthusiast+%F0%9F%8E%A8;Clean+Code+Advocate+%F0%9F%92%8E;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
