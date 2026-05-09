@@ -75,6 +75,12 @@
   <img alt="Mahfuz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-7148&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
 </div>
 
+## 🔥 GitHub Streaks
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahfuz-7148&theme=algolia&hide_border=true&background=0d1117&ring=00b3ff&fire=00b3ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak" />
+</div>
+
 ## 💻 GitHub Profile Stats
 
 <div align="center">
