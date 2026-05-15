@@ -45,12 +45,12 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🔭 I'm currently working on **Medipeak website project**
-- 🌱 I'm currently exploring **Next.js, TypeScript and advanced React patterns**
-- 👨‍💻 Building projects with **Modern JavaScript frameworks**
-- 💬 Ask me about **Next.js, React, JavaScript, and web development**
-- 📫 How to reach me: **mrahman7148@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code!**
+ 🔭 I'm currently working on **Medipeak website project**
+ 🌱 I'm currently exploring **Next.js, TypeScript and advanced React patterns**
+ 👨‍💻 Building projects with **Modern JavaScript frameworks**
+ 💬 Ask me about **Next.js, React, JavaScript, and web development**
+ 📫 How to reach me: **mrahman7148@gmail.com**
+ ⚡ Fun fact: **I love turning coffee into code!**
 
 ## 🛠️ Tech Arsenal
 
