@@ -65,23 +65,9 @@ I build fast, scalable, and user-friendly web applications.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahfuz-7148&theme=github_dark" width="96%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahfuz-7148&theme=github_dark" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mahfuz-7148&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&icon_color=4b9cd3&text_color=c9d1d9" width="47%"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahfuz-7148&theme=github_dark&utcOffset=6" width="47%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahfuz-7148&theme=github_dark" width="47%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahfuz-7148&theme=github_dark" width="47%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahfuz-7148&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4b9cd3&text_color=c9d1d9" width="47%"/>
 </div>
 
 <br/>
